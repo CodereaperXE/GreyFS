@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": []
+
+    
+        // "version": "0.2.0",
+        // "configurations": [
+        //     {
+        //         "name": "Debug C++ File",  // The name of the debug configuration
+        //         "type": "cppdbg",          // The debugger type, for C++/gdb
+        //         "request": "launch",       // Request type for launching the debugger
+        //         "program": "${workspaceFolder}/build/execute", // Path to your compiled executable
+        //         "args": [],  // Arguments to pass to the program
+        //         "stopAtEntry": false,      // Whether to stop at the entry of the program
+        //         "cwd": "${workspaceFolder}", // The working directory
+        //         "environment": [],         // Environment variables (if needed)
+        //         "externalConsole": false,   // Whether to use an external console for debugging
+        //         "MIMode": "gdb",            // Set the mode to use gdb
+        //         "miDebuggerPath": "/usr/bin/gdb", // Path to your gdb executable
+        //         "setupCommands": [
+        //             {
+        //                 "description": "Enable pretty-printing for gdb",
+        //                 "text": "-enable-pretty-printing",
+        //                 "ignoreFailures": true
+        //             }
+        //         ],
+        //         "preLaunchTask": "build",    // Task to run before launching the debugger
+        //         "postDebugTask": "clean",    // Task to run after debugging (optional)
+        //         "logging": {                 // Debugger logging options
+        //             "moduleLoad": false,
+        //             "programOutput": true,
+        //             "trace": false,
+        //             "engineLogging": false,
+        //             "exceptions": false
+        //         },
+        //         "internalConsoleOptions": "openOnSessionStart" // Open console when debugging starts
+        //     }
+        // ]
+    
+    
+}
